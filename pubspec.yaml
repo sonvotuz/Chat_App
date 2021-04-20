@@ -28,6 +28,7 @@ dependencies:
   firebase_auth: "^0.20.1"
   image_picker: ^0.6.7+22
   firebase_storage: "^7.0.0"
+  firebase_messaging: "^8.0.0-dev.15"
 
 
 
